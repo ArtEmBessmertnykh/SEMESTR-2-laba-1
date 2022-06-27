@@ -1,0 +1,4 @@
+﻿  LABA 1 sem 2 V7.cpp
+C:\Users\hp\source\repos\LABA 1 sem 2 V7\LABA 1 sem 2 V7\LABA 1 sem 2 V7.cpp(256,74): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+C:\Users\hp\source\repos\LABA 1 sem 2 V7\Debug\LABA 1 sem 2 V7.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
